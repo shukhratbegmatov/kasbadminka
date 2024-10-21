@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f6335386caf039a5c778eadfaea56d4d.js"
+  "/precache-manifest.3e2b7fdc3fbe2aca7c9499dd48928c6e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kasbadmin"});
